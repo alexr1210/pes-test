@@ -1,6 +1,6 @@
 ---
-resolv_nameservers: ''
-resolv_domain: ''
-resolv_search: ''
+resolv_nameservers: '194.168.4.100, 194.168.8.100'
+resolv_domain: 'adr1210.com'
+resolv_search: 'private.adr1210.com'
 resolv_sortlist: ''
 resolv_options: ''
